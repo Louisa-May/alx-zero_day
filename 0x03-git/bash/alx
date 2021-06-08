@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "ALX School"
 echo "ALX School is so cool!"
->>>>>>> 4b5209cc310206ce04da92c322874a1828b37835
+
+echo "Cool, all my changes will be now part of the main branch, ready to be deployed!"
